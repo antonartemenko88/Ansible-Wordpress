@@ -1,0 +1,10 @@
+group: devservers
+facts: yes
+# SERVER IPs
+app_ip: # ENTER APP IP
+
+# MYSQL VALUES
+mysql_root_password: testrootpassword
+db_user: wpadmin
+db_user_password: testuserpassword
+db_name: wordpress

@@ -1,0 +1,6 @@
+devservers:
+  hosts:
+    app:
+     ansible_host: # ENTER APP IP
+    mysql:
+      ansible_host: # ENTER DB IP
